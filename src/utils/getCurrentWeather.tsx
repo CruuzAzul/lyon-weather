@@ -2,6 +2,9 @@ import {WeatherTypes} from "../services/fetchWeather";
 import {WEATHER_CONDITION} from "../data/weatherCondition";
 
 export interface DailyWeather {
+  main: {
+    temp: number;
+  };
   weather: Array<{
     id: number;
     name: string;

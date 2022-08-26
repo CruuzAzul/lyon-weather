@@ -13,8 +13,11 @@
   "dependencies": {
     "@remotion/cli": "^3.0.0",
     "@remotion/eslint-config": "^3.0.0",
+    "@remotion/lottie": "^3.2.9",
+    "@types/node": "^18.7.13",
     "@types/styled-components": "^5.1.25",
     "eslint": "^8.14.0",
+    "lottie-web": "^5.9.6",
     "prettier": "^2.2.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
